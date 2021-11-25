@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F70000&lines=Welcome+to+HUSNI-SER+WA+Bot+repo;Created+by+HUSNI;This+is+a+Featured+bot;With+Love+HUSNI-SER)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F4000&lines=Welcome+to+HUSNI-SER+WA+Bot+repo;Created+by+HUSNI;This+is+a+Featured+bot;With+Love+HUSNI-SER)](https://git.io/typing-svg)
 <p align="center">
 <img src="https://i.ibb.co/0Gc5D80/xeon.jpg" alt="𝑺𝑷𝒀𝑹𝑶 𝑺𝑬𝑹" width="170" />
 <p align="center">
