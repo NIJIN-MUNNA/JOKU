@@ -4,21 +4,17 @@
 <p align="center">
  ⻼H̸USNI⇥SER̸󱿋
 
-
-</div>
 <p align="center">
   <a href="https://instagram.com/_husni_ser_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
   <a href="https://wa.me/917025868709"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
-</p>
+<p align="center">
+BIG THANKS TO
 
+<div align="center">
 
-# Requirements
-* [Node.js](https://nodejs.org/en/)
-* [Git](https://git-scm.com/downloads)
-* [FFmpeg](https://github.com/BtbN/FFmpeg-Builds/releases) (for sticker command)
-* [Libwebp](https://developers.google.com/speed/webp/download) (for sticker wm)
-* Any text editor
+![nijin-husni](https://github.com/pepesir.png?size=100)
 
+## pepe
 # Installation
 ## For Windows
 ```bash
