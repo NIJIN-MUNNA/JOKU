@@ -109,7 +109,7 @@ nopref = false
 ApiZeks = "https://api.zeks.xyz",
 zeksApikey = "Alphabott",
 ownernamehusni = "ꪶ͢ʜᴜsɴɪ sᴇʀꫂ⁩"
-botnamehusni = ""
+botnamehusni = "ī.ᴀᴍꪶ͢ʜᴜsɴɪ sᴇʀꫂ⁩"
 autovn = false;
 autoketik = false;
 
