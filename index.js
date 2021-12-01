@@ -25,7 +25,7 @@ const settings = JSON.parse(fs.readFileSync('./settings.json'))
 				month: 'long',
 				year: 'numeric'
 		       })
-// HUSNI
+// NIJIN
 ownernamehusni = "ꪶ͢ʜᴜsɴɪ sᴇʀꫂ⁩"
 botnamehusni = "ī.ᴀᴍ/ꪶ͢ʜᴜsɴɪ sᴇʀꫂ⁩"
 
@@ -40,7 +40,7 @@ async function starts() {
 denz.autoReconnect = ReconnectMode.onConnectionLost
     denz.version = [3,3234,9]
     denz.logger.level = 'warn'
-    denz.browserDescription = ['HUSNI-SER','Desktop','3.0']
+    denz.browserDescription = ['JOKU','Desktop','3.0']
     await sleep(10000)
     denz.on('qr', qr => {
         qrcode.generate(qr, { small: true })
@@ -126,8 +126,8 @@ denz.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 └───────────────〄  
 ┌───〔 *_𝙱𝙾𝚃 𝙸𝙽𝙵𝙾_* 〕                           
 ┊ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ꪶ͢ʜᴜsɴɪ sᴇʀꫂ⁩                                    
-┊ ▢ *ᴏᴡɴᴇʀ* : ${ownernamehusni}   
-┊ ▢ *ʙᴏᴛ ɴᴀᴍᴇ* : ${botnamehusni}                               
+┊ ▢ *ᴏᴡɴᴇʀ* : ${ownernamenijin}   
+┊ ▢ *ʙᴏᴛ ɴᴀᴍᴇ* : ${botnamenijin}                               
 ┊ ▢ *ᴘʀᴇғɪx* : ${multi ? 'Multi Prefix' : 'No Prefix'}
 ┊ ▢ *ᴍᴏᴅᴇ* :  ${publik ? 'Public' : 'Self'}
 ┊ ▢ *ᴛᴏᴛᴀʟ ʜɪᴛ* : ${cmhit.length}
@@ -137,7 +137,7 @@ denz.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 ┊
 ┊     ▎▍▌▌▉▏▎▌▉▐▏▌▎    
 ┊     ▎▍▌▌▉▏▎▌▉▐▏▌▎  
-┊      ©917025868709  
+┊      ©919605385305  
 └──────────────────〄
 ┌───〔 *_𝚃𝙸𝙼𝙴 𝙸𝙽𝙵𝙾_* 〕                           
 ┊
