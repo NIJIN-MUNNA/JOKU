@@ -1,5 +1,5 @@
 {
-  "name": "husnisir",
+  "name": "nijin",
   "version": "0.0.1",
   "description": "synzx",
   "main": "node index",
@@ -17,7 +17,7 @@
     "whatsapp",
     "bot"
   ],
-  "author": "husnisir",
+  "author": "nijin",
   "license": "ISC",
   "dependencies": {
     "@adiwajshing/baileys": "^3.5.2",
