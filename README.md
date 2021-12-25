@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F4000&lines=Welcome+to+JOKU+WA+Bot+repo;Created+by+HUSNI;This+is+a+Featured+bot;With+Love+JOKU)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Lemon+milk&color=F4000&lines=Welcome+to+JOKU+WA+Bot+repo;Created+by+NIJIN;This+is+a+Featured+bot;With+Love+JOKU)](https://git.io/typing-svg)
 <p align="center">
 <img src="https://i.ibb.co/0Gc5D80/xeon.jpg" alt="𝑺𝑷𝒀𝑹𝑶 𝑺𝑬𝑹" width="170" />
 <p align="center">
@@ -6,7 +6,7 @@
 
 <p align="center">
   <a href="https://instagram.com/_husni_ser_"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/> 
-  <a href="https://wa.me/917025868709"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
+  <a href="https://wa.me/91960585305"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
 <p align="center">
 BIG THANKS TO
 
