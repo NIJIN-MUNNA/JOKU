@@ -26,8 +26,8 @@ const settings = JSON.parse(fs.readFileSync('./settings.json'))
 				year: 'numeric'
 		       })
 // NIJIN
-ownernamehusni = "ꪶ͢ʜᴜsɴɪ sᴇʀꫂ⁩"
-botnamehusni = "ī.ᴀᴍ/ꪶ͢ʜᴜsɴɪ sᴇʀꫂ⁩"
+ownernamehusni = "ꪶ͢ɴɪᴊɪɴ sᴇʀꫂ⁩"
+botnamehusni = "ī.ᴀᴍ/ꪶ͢ɴɪᴊɪɴ sᴇʀꫂ⁩"
 
 // ------------- fear aavanda keto -----------
 
@@ -125,7 +125,7 @@ denz.sendMessage(id, buttonMessages, MessageType.buttonsMessage, options)
 ┊➥  *ᴡᴇʟᴄᴏᴍᴇ ᴛᴏ*  ${mdata.subject} *ɢʀᴏᴜᴘ*  
 └───────────────〄  
 ┌───〔 *_𝙱𝙾𝚃 𝙸𝙽𝙵𝙾_* 〕                           
-┊ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ꪶ͢ʜᴜsɴɪ sᴇʀꫂ⁩                                    
+┊ ▢ *ᴅᴇᴠᴇʟᴏʟᴇʀ* : ꪶ͢ɴɪᴊɪɴ sᴇʀꫂ⁩                                    
 ┊ ▢ *ᴏᴡɴᴇʀ* : ${ownernamenijin}   
 ┊ ▢ *ʙᴏᴛ ɴᴀᴍᴇ* : ${botnamenijin}                               
 ┊ ▢ *ᴘʀᴇғɪx* : ${multi ? 'Multi Prefix' : 'No Prefix'}
@@ -156,7 +156,7 @@ mhan = await denz.prepareMessage(mdata.id, buff, MessageType.image, {thumbnail: 
 const buttonMessages = {
 imageMessage: mhan.message.imageMessage,
 contentText: `${masuk}`,
-footerText: `ī.ᴀᴍ/ꪶ͢ʜᴜsɴɪ sᴇʀꫂ⁩`, 
+footerText: `ī.ᴀᴍ/ꪶ͢ɴɪᴊɪɴ sᴇʀꫂ⁩`, 
 buttons: gbutsan,
 headerType: 4
 }
@@ -186,7 +186,7 @@ mhan = await denz.prepareMessage(mdata.id, buff, MessageType.image, {thumbnail: 
 const buttonMessages = {
 imageMessage: mhan.message.imageMessage,
 contentText: `${keluar}`,
-footerText: `ī.ᴀᴍ/ꪶ͢ʜᴜsɴɪ sᴇʀꫂ⁩`,
+footerText: `ī.ᴀᴍ/ꪶ͢ɴɪᴊɪɴ sᴇʀꫂ⁩`,
 buttons: gbutsan,
 headerType: 4
 }
@@ -271,7 +271,7 @@ denz.copyNForward(m.key.remoteJid, m.message)
 denz.sendMessage(m.key.remoteJid, `▷\`\`\`𝙰𝙽𝚃𝙸 𝙳𝙴𝙻𝙴𝚃𝙴\`\`\`
 ➬ \`\`\`𝙽𝙰𝙼𝙴 : @${m.participant.split("@")[0]}\`\`\`
 ➬ \`\`\`𝚃𝚈𝙿𝙴 : ${c3type}\`\`\`
-➬ \`\`\`𝙱𝙾𝚃 : 𝙿𝚁𝙸𝚅𝙰𝚃𝙴 - 𝙱𝙾𝚃 𝙱𝚈 - ꪶ͢ʜᴜsɴɪ sᴇʀꫂ⁩⁩\`\`\``, MessageType.text, {quoted: m.message, contextInfo: {"mentionedJid": [m.participant]}})
+➬ \`\`\`𝙱𝙾𝚃 : 𝙿𝚁𝙸𝚅𝙰𝚃𝙴 - 𝙱𝙾𝚃 𝙱𝚈 - ꪶ͢ɴɪᴊɪɴ sᴇʀꫂ⁩⁩\`\`\``, MessageType.text, {quoted: m.message, contextInfo: {"mentionedJid": [m.participant]}})
 }
 })
 }
